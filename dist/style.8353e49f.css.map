@@ -1,0 +1,1 @@
+{"mappings":"AACI","sources":["style.scss"],"sourcesContent":["$chintu: orange;\n    body{\nbackground-color: $chintu;\n\n    } "],"names":[],"version":3,"file":"style.8353e49f.css.map","sourceRoot":"/__parcel_source_root/"}
